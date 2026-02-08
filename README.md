@@ -24,6 +24,8 @@ MPU6050 (6-axis Gyroscope & Accelerometer)
 
 2x Vibration Motors
 
+2x NPN Transistors BC547
+
 Buzzer,(Optional) For audible low-battery or critical alerts
 
 Power Source,9V Battery or Li-po
